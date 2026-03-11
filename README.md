@@ -65,6 +65,14 @@ Valorizo muito **trabalho em equipe**, **documentação clara** e **controle de 
 <a href="https://github.com/AndrewBlack21/finai-landing">
   FinAi
 </a>
+  |
+<a href="https://divulgador-link.vercel.app/login">
+  Divulga Links
+</a>
+  |
+<a href="https://andrewblack21.github.io/loja-celulares/">
+  Iphocell
+</a>
 
 </div>
 
