@@ -49,13 +49,13 @@ Valorizo muito **trabalho em equipe**, **documentação clara** e **controle de 
 ---
 
 ## 📊 Estatísticas
+<div align="center">
+  
+![](https://github-readme-stats.shion.dev/api?username=AndrewBlack21&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=AndrewBlack21&theme=dark&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AndrewBlack21&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=AndrewBlack21&theme=tokyonight&hide_border=true&background=0D1117&ring=2AD66A&fire=2AD66A&currStreakLabel=2AD66A&sideLabels=2AD66A"/>
-</p>
-
+</div>
 ---
 
 ## 🚀 Projetos em Destaque
