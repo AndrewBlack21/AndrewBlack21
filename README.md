@@ -12,82 +12,9 @@
 
 ---
 
-## 👨‍💻 Sobre mim
-
-Olá! Me chamo **Andrew Ferreira**, sou formado em **Análise e Desenvolvimento de Sistemas** e atuo como **Desenvolvedor Front-end**. Tenho focado minha carreira na construção de interfaces modernas e acessíveis utilizando React, JavaScript e boas práticas de desenvolvimento.
-
-Valorizo muito **trabalho em equipe**, **documentação clara** e **controle de versão**. Aplico metodologias como **Scrum**, **Clean Code** e **BPM** no dia a dia para garantir entregas de qualidade.
-
-- 🚀 Atualmente aprimorando minhas habilidades em **React** e **TypeScript**
-- 🎯 Foco em criar experiências de usuário **intuitivas e performáticas**
-- 📚 Sempre aprendendo e buscando evoluir como desenvolvedor
-- 💬 Aberto a colaborações e novos projetos!
-
----
-
-## 🛠️ Stack & Tecnologias
-
-**Front-end**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Ferramentas & Outros**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 Estatísticas
-<div align="center">
-  
-![](https://github-readme-stats.shion.dev/api?username=AndrewBlack21&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=AndrewBlack21&theme=dark&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AndrewBlack21&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
----
-
-## 🚀 Projetos em Destaque
-
 <div align="center">
 
-<a href="https://github.com/AndrewBlack21/finai-landing">
-  FinAi
-</a>
-  |
-<a href="https://divulgador-link.vercel.app/login">
-  Divulga Links
-</a>
-  |
-<a href="https://andrewblack21.github.io/loja-celulares/">
-  Iphocell
-</a>
-
-</div>
-
-> 💡 *Fixe repositórios no seu perfil do GitHub para destacar mais projetos aqui!*
-
----
-
-## 🌐 Onde me encontrar
-
-<div align="center">
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-2ad66a?style=for-the-badge&logo=vercel&logoColor=white)](https://andrewblack21.github.io/Portfolio-Andrew-Ferreira/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-ferreira-680101197/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrewsiilva_/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AndrewMoraes17/)
+![](https://githubcard-zeta.vercel.app/api/card?data=eyJ1c2VybmFtZSI6IkFuZHJld0JsYWNrMjEiLCJzaG93QXZhdGFyIjpmYWxzZSwiYXZhdGFyU3R5bGUiOiJjaXJjbGUiLCJ0aXRsZSI6Ik9sw6EsIGV1IHNvdSBBbmRyZXfwn5Go4oCN8J-SuyIsInN1YnRpdGxlIjoiRnJvbnQgRW5kIFN0YWNrIERldmVsb3BlciIsImFib3V0Ijoi8J-RqOKAjfCfkrsgU29icmUgbWltXG5PbMOhISBNZSBjaGFtbyBBbmRyZXcgRmVycmVpcmEsIHNvdSBmb3JtYWRvIGVtIEFuw6FsaXNlIGUgRGVzZW52b2x2aW1lbnRvIGRlIFNpc3RlbWFzIGUgYXR1byBjb21vIERlc2Vudm9sdmVkb3IgRnJvbnQtZW5kLiBUZW5obyBmb2NhZG8gbWluaGEgY2FycmVpcmEgbmEgY29uc3RydcOnw6NvIGRlIGludGVyZmFjZXMgbW9kZXJuYXMgZSBhY2Vzc8OtdmVpcyB1dGlsaXphbmRvIFJlYWN0LCBKYXZhU2NyaXB0IGUgYm9hcyBwcsOhdGljYXMgZGUgZGVzZW52b2x2aW1lbnRvLlxuXG5WYWxvcml6byBtdWl0byB0cmFiYWxobyBlbSBlcXVpcGUsIGRvY3VtZW50YcOnw6NvIGNsYXJhIGUgY29udHJvbGUgZGUgdmVyc8Ojby4gQXBsaWNvIG1ldG9kb2xvZ2lhcyBjb21vIFNjcnVtLCBDbGVhbiBDb2RlIGUgQlBNIG5vIGRpYSBhIGRpYSBwYXJhIGdhcmFudGlyIGVudHJlZ2FzIGRlIHF1YWxpZGFkZS5cblxu8J-agCBBdHVhbG1lbnRlIGFwcmltb3JhbmRvIG1pbmhhcyBoYWJpbGlkYWRlIiwic2hvd1N0YXRzIjp0cnVlLCJzaG93U3RhY2tzIjp0cnVlLCJzaG93U29jaWFscyI6dHJ1ZSwic2hvd1Byb2plY3RzIjp0cnVlLCJ0aGVtZSI6ImdpdGh1YiIsInN0eWxlIjp7ImJhY2tncm91bmRDb2xvciI6IiMwZDExMTciLCJ0ZXh0Q29sb3IiOiIjZmZmZmZmIiwic2Vjb25kYXJ5VGV4dENvbG9yIjoiIzhiOTQ5ZSIsImFjY2VudENvbG9yIjoiIzg1MGNhNyIsImJvcmRlckNvbG9yIjoiIzMwMzYzZCIsInVzZUdyYWRpZW50Ijp0cnVlLCJncmFkaWVudENvbG9yIjoiIzNkMTM0OSIsImdyYWRpZW50RGlyZWN0aW9uIjoiYm90dG9tLXJpZ2h0IiwiZm9udCI6IkludGVyIiwiYW5pbWF0aW9uIjoicHVsc2UifSwic29jaWFsTGlua3MiOlt7ImlkIjoiZWJiMDE0MDUtZDIyMi00MGQ0LWI2YjgtMjBiOWM1MDA1OGRmIiwicGxhdGZvcm0iOiJsaW5rZWRpbiIsImxhYmVsIjoiTGlua2VkSW4iLCJ1cmwiOiJ3d3cubGlua2VkaW4uY29tL2luL2FuZHJld3NpbHZhZmVycmVpcmEiLCJlbmFibGVkIjp0cnVlfSx7ImlkIjoiNzZjZGViYWItNmRiZi00YThiLTk0ZjQtOGI5NGE3NGYyMDI1IiwicGxhdGZvcm0iOiJ3ZWJzaXRlIiwibGFiZWwiOiJXZWJzaXRlIiwidXJsIjoiaHR0cHM6Ly9wb3J0Zm9saW9hbmRyZXdmZXJyZWlyYS52ZXJjZWwuYXBwLyIsImVuYWJsZWQiOnRydWV9LHsiaWQiOiI2MGQ5NTYzOS01OGM1LTRlNzUtYTZjOC0xMmFiZjBjMjIwZmEiLCJwbGF0Zm9ybSI6Imluc3RhZ3JhbSIsImxhYmVsIjoiSW5zdGFncmFtIiwidXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9hbmRyZXdzaWlsdmFfLyIsImVuYWJsZWQiOnRydWV9LHsiaWQiOiIwNDE2YjY5NC1iOWU0LTQxNzYtYjdkMS1mNmVlYjRlZjI4OTMiLCJwbGF0Zm9ybSI6ImdpdGh1YiIsImxhYmVsIjoiR2l0SHViIiwidXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL0FuZHJld0JsYWNrMjEiLCJlbmFibGVkIjp0cnVlfV0sImZlYXR1cmVkUmVwb3NpdG9yaWVzIjpbXX0)
 
 </div>
 
